@@ -1,7 +1,7 @@
 ---
 lab:
-    title: 'Highlight key decisions and actions from Teams meetings'
-    module: 'Module 1 - Highlight key decisions and actions from Teams meetings'
+    title: 'Catch up and prepare for the week with Copilot in Outlook'
+    module: 'Module 1 - Catch up and prepare for the week with Copilot in Outlook'
 ---
 
 # Catch up and prepare for the week with Copilot in Outlook
